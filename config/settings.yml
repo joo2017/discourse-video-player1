@@ -1,0 +1,6 @@
+video_player_enabled:
+  default: true
+  client: true
+  description: 
+    en: "Enable the custom video player for m3u8 format videos"
+    zh_CN: "启用自定义视频播放器以支持 m3u8 格式的视频"
